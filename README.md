@@ -62,7 +62,6 @@
   Web development stacks such as `MERN, Next, DEX, Solidity, Rust, Dapp, AI agent`,<br>
 
   
-  📫 How to reach me 👀 **warm624.h2@gmail.com**, [![telegram badge](https://img.shields.io/badge/W@RM-grey?style=flat&logo=telegram)](https://t.me/PJH) <br>
 
   ⚽ Fun fact Blockchain's future will be eternal**.
 
