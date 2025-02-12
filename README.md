@@ -213,9 +213,7 @@
     <a href="https://github.com/warm-h2?tab=repositories">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" height="250px" alt="@warm-h2's github-readme-stats"/>
     </a>
-    <a href="https://github.com/warm-h2?tab=stars">
-      <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&layout=compact&hide_border=true&theme=gotham" />
-    </a>
+    <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   </p>
 
   <!-- activity graph heroku-app start -->
