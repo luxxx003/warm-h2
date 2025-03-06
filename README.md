@@ -224,7 +224,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/warm-h2?tab=achievements">
-      <img src="https://github-profile-trophy.vercel.app/?username=warm-h2&theme=onestar&no-frame=true&column=6&row=1"  height="120px" alt="@CryptoNinja's trophy stats"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=warm-h2&theme=onestar&no-frame=true&column=6&row=1"  height="120px" alt="@warm's trophy stats"/>
     </a>
   </p>
 
