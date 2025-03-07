@@ -214,10 +214,10 @@
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" height="250px" alt="@warm-h2's github-readme-stats"/>
     </a> -->
     <a href="https://github.com/OnlyForward0613/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350" />
+      <img height=250 align="left" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=gotham&card_width=350" />
     </a>
     <a href="https://github.com/OnlyForward0613/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=OnlyForward0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
+      <img height=250 align="right" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=OnlyForward0613&layout=compact&langs_count=8&card_width=350&theme=gotham" />
     </a>
   </p>
 
