@@ -18,7 +18,7 @@
   <br />
 
   <h3 align="left">Key Focus</h3>
-  <ul align="left" style="list-style-type:none;">
+  <ul align="left" style="list-style-type-none">
     <li>⭐All types of automation for Trading Businesses</li>    
     <li>⭐Highly scalable and robust dapps based on EVM and Solana.</li>
     <li>⭐Blockchain interoperability using cross-chain bridges.</li>
