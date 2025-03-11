@@ -6,7 +6,6 @@
   <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=435&lines=Full+Stack+Blockchain+Engineer;Algorithmic+Trading+Expert;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
-
   </div>
 
   <!--Languages and Tools Section-->       
@@ -19,19 +18,19 @@
 
   <h3 align="left">Key Focus</h3>
   <dl align="left" font="serif">
-    <dt>⭐All types of automation for Trading Businesses</dt>    
-    <dt>⭐Highly scalable and robust dapps based on EVM and Solana.</dt>
-    <dt>⭐Blockchain interoperability using cross-chain bridges.</dt>
-    <dt>⭐Trend AI Crypto Agent</li>
-    <dt>⭐Decentralized crypto trading platforms.</dt>
+    <dt>⭐ All types of automation for Trading Businesses</dt>    
+    <dt>⭐ Interactive Brokers API / TWS</dt>
+    <dt>⭐ Highly scalable and robust dapps based on EVM and Solana.</dt>
+    <dt>⭐ Blockchain interoperability using cross-chain bridges.</dt>
+    <dt>⭐ Trend AI Crypto Agent</li>
   </dl>
     
   <h3 align="left">Current Learning</h3>
-  <ul align="left">
-    <li>Deepening my knowledge in cross-chain functionalites.</li>
-    <li>Exploring advanced AI models.</li>
-    <li>Improving my skills in cloud computing with AWS and Azure.</li>
-  </ul>
+  <dl align="left">
+    <dt>⭐ Deepening my knowledge in cross-chain functionalites.</dt>
+    <dt>⭐ Exploring advanced AI models.</li>
+    <dt>⭐ Improving my skills in cloud computing with AWS and Azure.</dt>
+  </dl>
   <br />
   <br />
   <br />
