@@ -4,7 +4,7 @@
 <div align="center" width="400">
 
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=435&lines=Full+Stack+Blockchain+Engineer;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=435&lines=Full+Stack+Blockchain+Engineer;Algorithmic+Trading+Expert;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
 
   </div>
@@ -18,11 +18,12 @@
   <br />
 
   <h3 align="left">Key Focus</h3>
-  <ul align="left">
-    <li>Highly scalable and robust dapps based on EVM and Solana.</li>
-    <li>Blockchain interoperability using cross-chain bridges.</li>
-    <li>Trend AI Crypto Agent</li>
-    <li>Decentralized crypto trading platforms.</li>
+  <ul align="left" style="list-style-type:none;">
+    <li>⭐All types of automation for Trading Businesses</li>    
+    <li>⭐Highly scalable and robust dapps based on EVM and Solana.</li>
+    <li>⭐Blockchain interoperability using cross-chain bridges.</li>
+    <li>⭐Trend AI Crypto Agent</li>
+    <li>⭐Decentralized crypto trading platforms.</li>
   </ul>
     
   <h3 align="left">Current Learning</h3>
