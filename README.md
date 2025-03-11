@@ -18,18 +18,18 @@
 
   <h3 align="left">Key Focus</h3>
   <dl align="left" font="serif">
-    <dt>⭐ All types of automation for Trading Businesses</dt>    
+    <dt>⭐ All types of automation for Trading</dt>    
     <dt>⭐ Interactive Brokers API / TWS</dt>
-    <dt>⭐ Highly scalable and robust dapps based on EVM and Solana.</dt>
-    <dt>⭐ Blockchain interoperability using cross-chain bridges.</dt>
+    <dt>⭐ Highly scalable and robust dApps</dt>
+    <dt>⭐ Blockchain interoperability</dt>
     <dt>⭐ Trend AI Crypto Agent</li>
   </dl>
     
   <h3 align="left">Current Learning</h3>
   <dl align="left">
-    <dt>⭐ Deepening my knowledge in cross-chain functionalites.</dt>
-    <dt>⭐ Exploring advanced AI models.</li>
-    <dt>⭐ Improving my skills in cloud computing with AWS and Azure.</dt>
+    <dt>⭐ Deepening in cross-chain functionalites</dt>
+    <dt>⭐ Exploring advanced AI models</li>
+    <dt>⭐ Cloud computing with AWS and Azure.</dt>
   </dl>
   <br />
   <br />
