@@ -18,13 +18,13 @@
   <br />
 
   <h3 align="left">Key Focus</h3>
-  <ul align="left" style="list-style-type: none">
-    <li>⭐All types of automation for Trading Businesses</li>    
-    <li>⭐Highly scalable and robust dapps based on EVM and Solana.</li>
-    <li>⭐Blockchain interoperability using cross-chain bridges.</li>
-    <li>⭐Trend AI Crypto Agent</li>
-    <li>⭐Decentralized crypto trading platforms.</li>
-  </ul>
+  <dl align="left">
+    <dt>⭐All types of automation for Trading Businesses</dt>    
+    <dt>⭐Highly scalable and robust dapps based on EVM and Solana.</dt>
+    <dt>⭐Blockchain interoperability using cross-chain bridges.</dt>
+    <dt>⭐Trend AI Crypto Agent</li>
+    <dt>⭐Decentralized crypto trading platforms.</dt>
+  </dl>
     
   <h3 align="left">Current Learning</h3>
   <ul align="left">
