@@ -18,18 +18,18 @@
 
   <h3 align="left">Key Focus</h3>
   <dl align="left" font="serif">
-    <dt>⭐ All types of automation for Trading</dt>    
-    <dt>⭐ Interactive Brokers API / TWS</dt>
-    <dt>⭐ Highly scalable and robust dApps</dt>
-    <dt>⭐ Blockchain interoperability</dt>
-    <dt>⭐ Trend AI Crypto Agent</li>
+    <dt>🌱 All types of automation for Trading</dt>    
+    <dt>🌱 Interactive Brokers API / TWS</dt>
+    <dt>🌱 Highly scalable and robust dApps</dt>
+    <dt>🌱 Blockchain interoperability</dt>
+    <dt>🌱 Trend AI Crypto Agent</li>
   </dl>
     
   <h3 align="left">Current Learning</h3>
   <dl align="left">
-    <dt>⭐ Deepening in cross-chain functionalites</dt>
-    <dt>⭐ Exploring advanced AI models</li>
-    <dt>⭐ Cloud computing with AWS and Azure.</dt>
+    <dt>🌱 Deepening in cross-chain functionalites</dt>
+    <dt>🌱 Exploring advanced AI models</li>
+    <dt>🌱 Cloud computing with AWS and Azure.</dt>
   </dl>
   <br />
   <br />
@@ -61,7 +61,9 @@
 
   Web development stacks such as `MERN, Next, DEX, Solidity, Rust, Dapp, AI agent`,<br>
 
-  
+  Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc) <br>
+
+  Trading Strategy Development (NinjaTrader, MT4, MT5, TradingView, Pine Script)<br>
 
   ⚽ Fun fact Blockchain's future will be eternal**.
 
@@ -220,17 +222,7 @@
 </p>
 
 ##
-  <p align="center">
-<!--     <a href="https://github.com/warm-h2?tab=repositories">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" height="250px" alt="@warm-h2's github-readme-stats"/>
-    </a> -->
-    <a href="https://github.com/warm-h2/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=warm-h2&show_icons=true&theme=gotham&hide_border=true&card-width=350" />
-    </a>
-    <a href="https://github.com/warm-h2/repositories">
-      <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=warm-h2&layout=compact&langs_count=8&theme=gotham&hide_border=true&card-width=350" />
-    </a>
-  </p>
+  
 
   <!-- activity graph heroku-app start -->
   <p align="center">
