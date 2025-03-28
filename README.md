@@ -70,7 +70,6 @@
 
   <p align="center">
     <img height="150" width="150" src="WEBP/left.webp"/>
-<!--     <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=warm-h2&theme=dark&hide_border=true" /> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warm-h2&theme=dark&hide_border=true"/>
     <img height="150" width="150" src="WEBP/right.webp"/>
   </p>
@@ -207,7 +206,18 @@
       </td>
     </tr>
   </table>
+  
+## 📊 GitHub Activities:
 
+<p align="center">
+  <a href="https://github.com/hcrypto7?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" height=200 alt="@warm-h2's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/warm-h2?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&theme=gotham&layout=compact&hide_border=true" width='48%' height=200 alt="@warm-h2's github-readme-stats" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=warm-h2&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@warm-h2's github-readme-streak-stats"/> -->
+  </a>
+</p>
 
 ##
   <p align="center">
