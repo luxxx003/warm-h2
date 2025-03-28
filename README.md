@@ -59,11 +59,11 @@
 
   💬 Please feel free to ask me about:
 
-  Web development stacks such as `MERN, Next, DEX, Solidity, Rust, Dapp, AI agent`,<br>
+    • Web development stacks such as MERN, Next, DEX, Solidity, Rust, Dapp, AI agent
 
-  Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc) <br>
+    • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc) 
 
-  Trading Strategy Development (NinjaTrader, MT4, MT5, TradingView, Pine Script)<br>
+    • Trading Strategy Development (NinjaTrader, MT4, MT5, TradingView, Pine Script)
 
   ⚽ Fun fact Blockchain's future will be eternal**.
 
