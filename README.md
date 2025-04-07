@@ -73,10 +73,10 @@
   <br>
   <p align="center">
     <a href="https://github.com/warm-h2?tab=stars">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&theme=gotham&layout=compact&hide_border=true" alt="@warm-h2's github-readme-stats" height="200"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warm-h2&theme=gotham&layout=compact&hide_border=true" alt="@warm-h2's github-readme-stats" height="180"/>
     </a>
     <a href="https://github.com/hcrypto7?tab=repositories">
-      <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true"  height="200" alt="@warm-h2's github-readme-stats"  />
+      <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true"  height="180" alt="@warm-h2's github-readme-stats"  />
     </a>
     <br><br><br><br><br><br><br><br><br>
   </p>
