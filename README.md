@@ -212,7 +212,7 @@
 ## 📊 GitHub Activities:
 
 <div align="center">
-  <a href="https://github.com/hcrypto7?tab=repositories">
+  <a align="left" href="https://github.com/hcrypto7?tab=repositories">
     <img height="200px" weight="400px" src="https://github-readme-stats-one-bice.vercel.app/api?username=warm-h2&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  alt="@warm-h2's github-readme-stats"/>
   </a>
   <a href="https://github.com/warm-h2?tab=stars">
