@@ -59,9 +59,11 @@
 
   💬 Please feel free to ask me about:
 
-    • Web development stacks such as MERN, Next, DEX, Solidity, Rust, Dapp, AI agent
+    • Web development stacks such as MERN, Next, JavaScript, PHP, Laravel, Django,AI agent
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc) 
+
+    • AI development stacks such as Python, Machine Learning, Tensorflow, AI Agent, NLP, PyTorch, Keras
 
     • Trading Strategy Development (NinjaTrader, MT4, MT5, TradingView, Pine Script)
 
