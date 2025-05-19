@@ -18,7 +18,7 @@
 
   <h3 align="left">Key Focus</h3>
   <dl align="left" font="serif">
-    <dt>🌱 All types of automation for Trading</dt>    
+    <dt>🌱 Attention to detail and quality assurance</dt>    
     <dt>🌱 Interactive Brokers API / TWS</dt>
     <dt>🌱 Highly scalable and robust dApps</dt>
     <dt>🌱 Blockchain interoperability</dt>
