@@ -20,9 +20,9 @@
   <dl align="left">
     <dt>🌱 Attention to detail and quality assurance</dt>    
     <dt>🌱 Skilled in Driving Global Teams / TWS</dt>
-    <dt>🌱 Champion of Agile, Lean, and DevOps Cultures</dt>
+    <dt>🌱 Champion of Agile and DevOps Cultures</dt>
     <dt>🌱 Strategic Investor in Technology & R&D </dt>
-    <dt>🌱 Innovator in Customer-Centric Development</li>
+    <dt>🌱 Customer-Centric Development</li>
   </dl>
     
   <h3 align="left">Current Learning</h3>
