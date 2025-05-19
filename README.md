@@ -19,17 +19,10 @@
   <h3 align="left">Key Focus</h3>
   <dl align="left" font="serif">
     <dt>🌱 Attention to detail and quality assurance</dt>    
-    <dt>🌱 Skilled in Driving Cross-Functional Global Teams / TWS</dt>
+    <dt>🌱 Skilled in Driving Global Teams / TWS</dt>
     <dt>🌱 Champion of Agile, Lean, and DevOps Cultures</dt>
     <dt>🌱 Strategic Investor in Technology & R&D </dt>
-    <dt>🌱 Innovator in Customer-Centric Product Development</li>
-
-
-Champion of Agile, Lean, and DevOps Cultures
-Skilled in Driving Cross-Functional Global Teams
-Strategic Investor in Technology & R&D
-Innovator in Customer-Centric Product Development
-Data-Driven Business & Technology Alignment
+    <dt>🌱 Innovator in Customer-Centric Development</li>
   </dl>
     
   <h3 align="left">Current Learning</h3>
