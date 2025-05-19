@@ -17,7 +17,7 @@
   <br />
 
   <h3 align="left">Key Focus</h3>
-  <dl align="left" font="serif">
+  <dl align="left">
     <dt>🌱 Attention to detail and quality assurance</dt>    
     <dt>🌱 Skilled in Driving Global Teams / TWS</dt>
     <dt>🌱 Champion of Agile, Lean, and DevOps Cultures</dt>
