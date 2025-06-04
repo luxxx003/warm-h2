@@ -59,7 +59,7 @@
 
   💬 Please feel free to ask me about:
 
-    • Web development stacks such as MERN, Next, JavaScript, PHP, Laravel, Django,AI agent
+    • Web & Mobile development stacks such as MERN, Next, Laravel, Django, Swift, Flutter, React Native
 
     • Blockchain Development (DeFi, NFT, DApps and DEX, Smart Contract with Solidity, Rust, Solana, etc) 
 
