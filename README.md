@@ -4,7 +4,7 @@
 <div align="center" width="400">
 
   <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=435&lines=Full+Stack+Blockchain+Engineer;Senior+Software+Engineer;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&width=435&lines=Talented+Project+Manager;Senior+Software+Engineer;Live+by+Hope%2C+Stand+up+for+Honor" alt="Typing SVG" /></a>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+Blockchain+Engineer.;Over+7+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
   </div>
 
